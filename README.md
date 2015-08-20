@@ -8,7 +8,6 @@ An alternative to mean.io and meanjs.org that's a bit MEANR
 - Relational database with transactions - using sequalize
 - JSON Web Tokens - instead of cookies
 - Passport social logins
-- Access Control Lists - user/role ACLs
 - User sign up/email confirmation & password reset
 - Scheduled tasks
 - Custom logging
@@ -16,8 +15,11 @@ An alternative to mean.io and meanjs.org that's a bit MEANR
 - API endpoint hijack protection
 - Angular client caching, messages, resource
 - Bootstrap
-- SEO optimized
 - Grunt build tools - familiar layout to the Yeoman angular base project
+- Access Control Lists - user/role ACLs (todo)
+- SEO optimized (todo)
+- Admin dashboard (todo)
+- Socket.io - un/authenticated (todo)
 
 
 #### Why does the world need another MEAN stack?
