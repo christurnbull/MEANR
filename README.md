@@ -34,6 +34,18 @@ And [cookies aren't ideal](http://sitr.us/2011/08/26/cookies-are-bad-for-you.htm
 - Angular 1.4.x
 - Node 4.2.x
 
+
+#### Possible future developments
+- gunmail webhooks
+- charts for JSNLog
+- ignore jsnlog when user messes with dom
+- refresh provider persistent tokens
+- add user capabilities/permissions viewer to route view
+- activity audit log socketio requests
+- audit log geodata map
+- admin performance - reduce ng-hide/ng-show and filters in ng-repeat
+- whatever you can fork and pull!
+
 #### Support
 
 Please open an issue in the relevant repository for support.
